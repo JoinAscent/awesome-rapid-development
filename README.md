@@ -39,6 +39,7 @@
 
 ## Ruby
 - [Rails](http://rubyonrails.org) - A batteries included web framework made for rapid development
+- [Devise](https://github.com/plataformatec/devise) - Quickly add authentication to any rails app
 
 ## CSS
 - [Talwind CSS](https://tailwindcss.com) - A Utility-First CSS Framework
