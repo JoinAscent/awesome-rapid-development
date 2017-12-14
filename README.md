@@ -1,5 +1,6 @@
 # Awesome Rapid Development
 ⚡️A collection of awesome tools and libraries for rapid development!
+You can discuss this project on Ascent's [discord](https://discord.gg/STDcbhQ)
 
 ## Table of Contents
 - [Quick Start](#quick-start)
