@@ -10,6 +10,7 @@ You can discuss this project on Ascent's [discord](https://discord.gg/STDcbhQ)
     - [Python](#python)
     - [Javascript](#javascript)
     - [Ruby](#ruby)
+    - [HTML](#html)
     - [CSS](#css)
 
 ## Quick Start
@@ -41,6 +42,9 @@ You can discuss this project on Ascent's [discord](https://discord.gg/STDcbhQ)
 ## Ruby
 - [Rails](http://rubyonrails.org) - A batteries included web framework made for rapid development
 - [Devise](https://github.com/plataformatec/devise) - Quickly add authentication to any rails app
+
+## HTML
+- [Shards](https://designrevision.com/downloads/shards) - Modern UI toolkit for Bootstrap 4
 
 ## CSS
 - [Talwind CSS](https://tailwindcss.com) - A Utility-First CSS Framework
