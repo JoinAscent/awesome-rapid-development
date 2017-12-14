@@ -38,6 +38,7 @@ You can discuss this project on Ascent's [discord](https://discord.gg/STDcbhQ)
 ## Javascript
 - [Express](http://expressjs.com) - Fast, unopinionated, minimalist web framework for Node.js
 - [Passport](http://www.passportjs.org) - Simple, unobtrusive authentication for Node.js
+- [Material UI](http://www.material-ui.com/#/) - React + Material Design = fast and beautiful web applications
 
 ## Ruby
 - [Rails](http://rubyonrails.org) - A batteries included web framework made for rapid development
